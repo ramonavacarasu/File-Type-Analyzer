@@ -1,0 +1,13 @@
+type: code
+custom_name: Non-overlapping occurrences
+files:
+- name: src/Main.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5729
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/5729">JetBrains
+    Academy</a></html>
+  time: Sat, 25 Jul 2020 19:14:46 UTC
+record: -1
